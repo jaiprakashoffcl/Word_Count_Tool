@@ -1,0 +1,4 @@
+Welcome to our project! This is a sample text file for testing.
+It contains some words to demonstrate the Word Count Tool in Python.
+Feel free to modify the content as needed and experiment with the tool.
+If you have any questions, feel free to ask. Happy coding!
