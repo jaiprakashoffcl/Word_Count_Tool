@@ -1,4 +1,3 @@
-```markdown
 # Word Count Tool
 
 ## Overview
@@ -95,4 +94,4 @@ Special thanks to the Python community and contributors.
 If you have any questions or feedback, feel free to contact jaiprakash292033@gmail.com.
 
 Happy coding!
-```
+
